@@ -1,9 +1,10 @@
 ---
 
 layout: col-sidebar
-title: OWASP [GROUPNAME]
-tags: example-tag
-level: 4
+title: OWASP Portland, Maine
+tags: 
+level: 0
+region: north america
 type: 
 
 ---
