@@ -4,7 +4,7 @@ layout: col-sidebar
 title: OWASP maine
 tags: maine
 level: 3
-region: United States
+region: North America
 
 ---
 Welcome to the Maine chapter homepage. The chapter leaders are 
