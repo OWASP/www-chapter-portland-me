@@ -31,10 +31,12 @@ We're back for the first OWASP meetup of 2020! Once again we'll be hosted by Gui
 
 This month we have two of our members presenting for the group:
 
-Keep SSH keys secret, keep them safe!
+-   **Keep SSH keys secret, keep them safe!**
+
 Why & How to keep your SSH keys on a Yubikey, and effectively use them. We will run through some of the benefits of keeping keys on a cryptographic device, and how to enhance your key security without degrading usability.
 
-Intro to Reverse Engineering
+-   **Intro to Reverse Engineering**
+
 Ben Mason (suidroot) will cover some of the basics of reverse engineering software and firmware. Ben will cover tools, processes, and some basic techniques used to investigate how to take apart a piece of software and understand what is doing.
 
 **Code of Conduct**:
