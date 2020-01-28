@@ -17,7 +17,7 @@ Join our Portland, Maine Chapter email list for OWASP Foundation and chapter com
 
 #### Call For Speakers
 
-With the Portland, Maine chapter, we aim to organize at least 4 local chapter meetings per year.  If you would like to present a talk on Application Security at future OWASP Portland, Maine Chapter events, feel free to reach out to us and let us know - we'd love to have you join us!  [Meetup.com](https://www.meetup.com/OWASP-Maine/)
+With the Portland, Maine chapter, we aim to organize at least 4 local chapter meetings per year.  If you would like to present a talk on Application Security at future OWASP Portland, Maine Chapter events, feel free to reach out to us and let us know - we'd love to have you join us!  [Meetup.com](https://owasp.org/www-chapter-portland-me/)
 
 Next Meeting/Event(s)
 ---------------------
