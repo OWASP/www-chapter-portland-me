@@ -5,6 +5,9 @@ title: OWASP Portland, Maine
 tags: maine
 level: 3
 region: North America
+meetup-group: OWASP-Portland-Maine-Chapter
+country: USA
+postal-code: 4101
 
 ---
 Welcome to the Portland, Maine chapter homepage. The chapter leaders are 
