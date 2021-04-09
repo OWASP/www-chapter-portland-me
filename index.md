@@ -25,22 +25,32 @@ With the Portland, Maine chapter, we aim to organize at least 4 local chapter me
 Next Meeting/Event(s)
 ---------------------
 
-##### Thursday, January 23, 2020
+
+##### Thursday, June 10, 2021
 6:00 PM to 8:00 PM
-16 Middle St · Portland, ME
+Virtual
 [Register on Meetup.com](https://www.meetup.com/OWASP-Maine/)
 
-We're back for the first OWASP meetup of 2020! Once again we'll be hosted by Guideline.
+We're back for the first OWASP Maine meetup of 2021!
 
-This month we have two of our members presenting for the group:
+**Hacking Modern Websites with OWASP Juice Shop** 
 
--   **Keep SSH keys secret, keep them safe!**
+Have you ever thought about getting into web application security testing? Maybe you know a few things and you would like to sharpen your skills in testing modern single-page web applications? Well, this is the event for you. 
 
-Why & How to keep your SSH keys on a Yubikey, and effectively use them. We will run through some of the benefits of keeping keys on a cryptographic device, and how to enhance your key security without degrading usability.
+In this hands-on hacking workshop, Ben Allen (DC207) will dig in to one of OWASP's flagship projects, Juice Shop. Juice Shop emulates an e-commerce web application and is meant to show how modern JavaScript-based applications can be compromised. 
 
--   **Intro to Reverse Engineering**
+In this follow-along workshop we will cover:
+-   What OWASP Juice Shop is
+-   How to deploy your own Juice Shop on the internet for free
+-   How to set your computer up for testing
+-   How to hunt for bugs
+-   An interactive walk-through of a few challenges
 
-Ben Mason (suidroot) will cover some of the basics of reverse engineering software and firmware. Ben will cover tools, processes, and some basic techniques used to investigate how to take apart a piece of software and understand what is doing.
+What you will need to follow along:
+-   A computer with Windows / MacOS / Linux installed
+-   A desire to learn about web application security testing
+
+Hope to see you there!
 
 **Code of Conduct**:
 
