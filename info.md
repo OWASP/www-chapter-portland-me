@@ -1,17 +1,10 @@
-### [GROUPNAME] Information
-* [Flagship Project](#)
-* [Tool Project](#)
-* [Version 2.8.0](#)
-* [Builder](#)
-* [Breaker](#)
+### [Porland, ME] Information
+* [All Policies and Procedures](https://owasp.org/www-policy/)
+
 
 ### Downloads or Social Links
-* [Download](#)
+
 * [Meetup](https://www.meetup.com/OWASP-Portland-Maine-Chapter/)
 
-### Code Repository
-* [repo](#)
 
-### Change Log
-* [changes](#)
 
