@@ -1,4 +1,4 @@
-### [Porland, ME] Information
+### Porland, ME Information
 * [All Policies and Procedures](https://owasp.org/www-policy/)
 
 
