@@ -4,7 +4,7 @@
 
 ### Downloads or Social Links
 
-* [Meetup](https://www.meetup.com/OWASP-Portland-Maine-Chapter/)
+* [Meetup](https://www.meetup.com/OWASP-Maine/)
 
 
 
