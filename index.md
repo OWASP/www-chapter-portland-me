@@ -3,6 +3,7 @@ layout: col-sidebar
 title: OWASP Portland, Maine
 tags: maine
 region: North America
+country: USA
 meetup-group: OWASP-Maine
 
 ---
