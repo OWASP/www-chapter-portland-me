@@ -1,13 +1,12 @@
 ---
-
-title: leaders
-displaytext: Leaders
-layout: col-sidebar
+title: Leaders
+displaytext: Maine Leaders
+layout: null
 tab: true
-order: 3
-tags: Portland Maine
-
+order: 2
+tags: maine
 ---
+
 
 ### Portland, Maine Chapter Leaders
 * [John Ellingsworth](mailto:john.ellingsworth@owasp.org)
