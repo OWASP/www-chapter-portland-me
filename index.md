@@ -6,7 +6,8 @@ region: North America
 country: USA
 meetup-group: OWASP-Maine
 ---
-<link href="style.css" rel="stylesheet">
+
+<link href="style.css" rel="stylesheet"></link> 
 
 ![owasp_maine](./assets/images/owasp_maine.png "Maine OWASP")
 
