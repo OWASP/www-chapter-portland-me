@@ -1,6 +1,6 @@
 ---
 title: Leaders
-displaytext: Maine Leaders
+displaytext: Leaders
 layout: null
 tab: true
 order: 2
