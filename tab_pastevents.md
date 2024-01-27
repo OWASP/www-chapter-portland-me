@@ -17,7 +17,7 @@ Recent Events
 
 ---
 ### Tuesday November 21, 2023
-|  |  |
+| test | test |
 |---| ---------- |
 | Hosted By | Onapsis |
 | Topic | Cybersecurity of Critical SAP Apps |
