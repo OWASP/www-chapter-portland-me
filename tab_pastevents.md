@@ -105,14 +105,13 @@ A desire to learn about web application security testing
 Older Events
 ```
 ---
-### Thursday, January 23, 2020
-|  |  |
-|---| ---------- |
-| Topic | OWASP hosted by Guideline |
-| Location | Benkay Japanese Restraunt & Sushi Bar |
-| Address | 16 Middle St · Portland, ME |
-| Time | 6:00 PM to 8:00 PM |
+### Thursday, January 23, 2020 6:00 PM to 8:00 PM
+`Hosted By`: Guideline
+`Topic`: SSH & Reverse Engineering
 
+Benkay Japanese Restraunt & Sushi Bar - 
+16 Middle St  -
+Portland, ME
 
 We're back for the first OWASP meetup of 2020! Once again we'll be hosted by Guideline.
 
