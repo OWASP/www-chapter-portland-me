@@ -126,9 +126,14 @@ This month we have two of our members presenting for the group:
     Ben Mason (suidroot) will cover some of the basics of reverse engineering software and firmware. Ben will cover tools, processes, and some basic techniques used to investigate how to take apart a piece of software and understand what is doing.
 
 ---
-### Thursday, 24 October 2019 
+### Thursday, 24 October 2019 6PM
 
-**Location:** Guideline, 16 Middle Street, Portland, ME
+`Hosted By`: Guideline
+`Topic`: SSH & Reverse Engineering
+
+Benkay Japanese Restraunt & Sushi Bar - 
+16 Middle St  -
+Portland, ME
 
 **Time:** Doors Open at 6:00PM for registration, food, drinks and networking. Talks begin at 6:30PM.
 
@@ -142,9 +147,14 @@ This month we have two of our members presenting for the group:
     What is it, how does it work and where is it used?  [Presentation](https://jumpnowtek.com/downloads/presentations/Elliptic_Curve_Cryptography.pdf)
 
 ---
-### Thursday, 22 August 2019 
+### Thursday, 22 August 2019 6PM
 
-**Location:** IDEXX Laboratories, Inc., 1 IDEXX Drive, Westbrook, ME
+`Hosted By`: OWASP
+`Topic`: Jump into Mobile AppSec with the OWASP MAS Project
+
+IDEXX Corporate Headquarters - 
+1 Idexx Dr -
+Westbrook, ME
 
 **Time:** Doors Open at 6:00PM for registration, food, drinks and networking. Talks begin at 6:30PM.
 
