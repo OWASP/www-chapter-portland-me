@@ -52,6 +52,13 @@ Mobile apps dominate all digital time spent online - but mobile AppSec programs 
 In this session we will drill down into the top 5 most frequent security issues found in testing thousands of mobile apps. Learn how to test for them, and how to teach your dev teams to prevent them with code examples, test examples, links to additional resources and how to build your own toolkit. Along the way we will hit the latest privacy and security updates with iOS and Android. 
 
 ---
+
+```
+Older Events
+```
+
+---
+
 ### Wednesday April 19, 2023
 1st Annual 2023 OWASP Maine Secure Coding Tournament
 
@@ -101,9 +108,7 @@ What you will need to follow along:
 A computer with Windows / MacOS / Linux installed
 A desire to learn about web application security testing
 
-```
-Older Events
-```
+
 ---
 ### Thursday, January 23, 2020 6:00 PM to 8:00 PM
 `Hosted By`: Guideline
