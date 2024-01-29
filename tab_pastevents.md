@@ -16,15 +16,16 @@ Recent Events
 ```
 
 ---
-### Tuesday November 21, 2023
-| test | test |
-|---| ---------- |
-| Hosted By | Onapsis |
-| Topic | Cybersecurity of Critical SAP Apps |
-| Location | Rising Tide Brewery  |
-| Address | 103 Fox St · Portland, ME |
-| Time | 6:00 PM to 8:00 PM |
+### Tuesday November 21, 2023 6:00 PM to 8:00 PM
+`Hosted By`: Onapsis
+`Topic`: Cybersecurity of Critical SAP Apps
 
+Rising Tide Brewery - 
+103 Fox St -
+Portland, ME
+
+
+#### Description
 Application and software security are so vitally important in all aspects of the business especially with every company becoming a software company as they navigate through digital transformations.
 
 With that being said ERP systems are some of **THE MOST** critical applications within enterprises today and come with their own unique set of security challenges.
@@ -34,18 +35,17 @@ The fine folks at Onapsis who 100% specialize in SAP and ERP application securit
 Anyone who is involved in SAP ERP environments from both a software development and security perspective would gain a tremendous amount of knowledge attending this meetup.
 
 ---
-### Thursday, October 26, 2023
-RESCHEDULED
-
+### Thursday, October 26, 2023 `RESCHEDULED`
 ---
-### Thursday, June 22, 2023
-|  |  |
-|---| ---------- |
-| Hosted By | NowSecure |
-| Topic | Jump into Mobile AppSec with the OWASP MAS Project |
-| Location | IDEXX Corporate Headquarters  |
-| Address | 1 Idexx Dr, Westbrook, ME 04092 |
-| Time | 6:00 PM to 8:00 PM |
+### Thursday, June 22, 2023 6:00 PM to 8:00 PM 
+`Hosted By`: NowSecure
+`Topic`: Jump into Mobile AppSec with the OWASP MAS Project
+
+IDEXX Corporate Headquarters - 
+1 Idexx Dr -
+Westbrook, ME
+
+#### Description
 
 Mobile apps dominate all digital time spent online - but mobile AppSec programs often lag. Jumpstart your team and skills by stepping inside the OWASP Mobile AppSec Project (MAS), the OWASP Mobile Application Security Verification Standard (MASVS), and OWASP Mobile Application Security Testing Guide (MASTG) to learn about the fundamentals of mobile app security and the latest updates just released in OWASP MASVS V2 launched at OWASP Global AppSec in Dublin. Learn the differences in Mobile AppSec vs Web AppSec and how to put OWASP MAS project, tools and resources to work.
 
@@ -74,13 +74,11 @@ Are you an OWASP Member?
 OWASP Advanced Whiteboard Hacking - AKA Hands on Threat Modeling
 
 ---
-### Thursday, June 10, 2021
-|  |  |
-|---| ---------- |
-| Topic | OWASP Maine June 2021 Virtual Meeting |
-| Location | Remote |
-| Address | None |
-| Time | 6:00 PM to 8:00 PM |
+### Thursday, June 10, 2021 6:00 PM to 8:00 PM `REMOTE`
+`Hosted By`: OWASP
+`Topic`: OWASP Maine June 2021 Virtual Meeting
+
+#### Description
 
 We're back for the first OWASP Maine meetup of 2021!
 
