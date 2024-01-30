@@ -5,17 +5,18 @@ tags: maine
 region: North America
 country: USA
 meetup-group: OWASP-Maine
+--- 
 
----
-
-## Welcome
+## Welcome OWASP Portland Maine
 Welcome to the OWASP Portland Maine chapter homepage. OWASP Portland Maine is the Maine, United States chapter of OWASP, the Open Web Application Security Project. 
 
-The chapter leaders are Scott Brown, John Ellingsworth, Justin Kezer, and Tony Quadros. We aim to organize at least 3 chapter meetings per year.
+### Goals
+We aim to organize at least four (4) chapter meetings per year.
 
-If you would like to join or participate in our events and network with our community, we'd love to have you! Reach us via email at <a href="mailto:portland-me-leaders@owasp.org">portland-me-leaders@owasp.org</a> and stay in touch via: 
-- [Twitter](http://twitter.com/owaspmaine)
-- [LinkedIn](https://www.linkedin.com/company/owasp-maine/)
+### Participate
+If you would like to join or participate in our events and network with our community, we'd love to have you!
+
+Reach us via email at <a href="mailto:portland-me-leaders@owasp.org">portland-me-leaders@owasp.org</a> or our social links on the right!
 
 Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
 ---------------------
