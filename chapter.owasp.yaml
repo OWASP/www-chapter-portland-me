@@ -1,0 +1,30 @@
+leaders:
+  - name: John Ellingsworth
+    email: john.ellingsworth@owasp.org
+    github: johnellingsworth
+  - name: Tony Quadros
+    email: tony.quadros@owasp.org
+  - name: Scott Brown
+    email: scott.brown@owasp.org
+    github: sbrown17
+  - name: Justin Kezer
+    email: justin.kezer@owasp.org
+    github: irishmoneyman
+location:
+  country: USA
+  country_code: US
+  region: Maine
+  city: Portland
+  latitude: 43.6573605
+  longitude: -70.2586618
+meetup_group: OWASP-Maine
+name: OWASP Portland, Maine
+repositories:
+  - name: www-chapter-portland-me
+    url: https://github.com/OWASP/www-chapter-portland-me
+    description: OWASP repository for the Portland, Maine page
+tags:
+  - maine
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-portland-me
